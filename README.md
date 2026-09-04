@@ -74,7 +74,7 @@ and exploring ways to integrate AI into useful applications.
 
 # GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; align-items: center;">
 
 ![](https://streak-stats.demolab.com/?user=Anirudh-Negii&theme=dark&hide_border=false)<br/>
 
