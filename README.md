@@ -76,10 +76,8 @@ and exploring ways to integrate AI into useful applications.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Anirudh-Negii&theme=dark&hide_border=true" alt="GitHub Streak" />
+![](https://streak-stats.demolab.com/?user=Anirudh-Negii&theme=dark&hide_border=false)<br/>
 
-<br><br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anirudh-Negii&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anirudh-Negii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
