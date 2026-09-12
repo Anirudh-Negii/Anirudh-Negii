@@ -76,7 +76,7 @@ and exploring ways to integrate AI into useful applications.
 
 <div align="center" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; align-items: center;">
 
-![](https://streak-stats.demolab.com/?user=Anirudh-Negii&theme=dark&hide_border=false)<br/>
+![]([https://streak-stats.demolab.com/?user=Anirudh-Negii&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=Anirudh-Negii&theme=dark&hide_border=false&starting_year=2025))<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anirudh-Negii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
